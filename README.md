@@ -78,7 +78,7 @@ Sempre em busca de novos desafios. Bora construir o futuro?
 
   - **Tecnologias:** NodeJS, NestJS, Angular, MongoDB, TypeScript, Jest, Redis, Kubernetes, Lambda AWS, SES AWS, SQS AWS, SNS AWS, Swagger, Microsserviços e Sentry.
 
-  - **TerraMetrics**
+- **TerraMetrics**
 
   - Um aplicativo móvel inovador e inteligente para o agronegócio, proporcionando soluções eficientes para otimizar a gestão, monitoramento e produtividade no campo.
 
