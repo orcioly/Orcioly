@@ -6,7 +6,7 @@
 
 🚀 Já atuei como desenvolvedor sênior e tech lead em grandes empresas, acompanhando projetos do zero até a produção. Minha trajetória é marcada pelo estudo constante de linguagens de programação, banco de dados, lógica, algoritmos e tudo que envolve o mundo da computação.
 
-🔬 Hoje sou Cientista de Pesquisa e Desenvolvimento em Inteligência Artificial e Machine Learning – onde aplico minha curiosidade insaciável e meu amor por resolver problemas complexos com tecnologia.
+🔬 Hoje sou Desenvolvedor Sênior e Cientista de Pesquisa e Desenvolvimento em Inteligência Artificial e Machine Learning – onde aplico minha curiosidade insaciável e meu amor por resolver problemas complexos com tecnologia.
 
 Sempre em busca de novos desafios. Bora construir o futuro?
 
